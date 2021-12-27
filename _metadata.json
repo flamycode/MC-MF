@@ -1,0 +1,1402 @@
+[
+  {
+    "name": "FreakyPunk #1",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "dna": "c00245669e1e142b743c49cc1e8429a02137bc4c",
+    "edition": 1,
+    "date": 1640563336433,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #2",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "dna": "eb2f2c7845ff58422096e23f063880452359ccef",
+    "edition": 2,
+    "date": 1640563336469,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #3",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "dna": "e6873524f8dd297f018376bb09fdeb25d5e25b83",
+    "edition": 3,
+    "date": 1640563336503,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #4",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "dna": "180d5a9e2c7eb3ea1e6e889339fe2be30d7882b1",
+    "edition": 4,
+    "date": 1640563336538,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #5",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "dna": "780d025b27c8a85a4d932160341803377fbc5859",
+    "edition": 5,
+    "date": 1640563336572,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #6",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "dna": "c5466cd3d1b25b9acaf74bde3215323c3e1b5349",
+    "edition": 6,
+    "date": 1640563336607,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #7",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "dna": "ef24feae7e4ef13bf980969b6a9d6845ee357a14",
+    "edition": 7,
+    "date": 1640563336641,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #8",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "dna": "6eb9dc109e3f1621297dabb58d205f809cd593ce",
+    "edition": 8,
+    "date": 1640563336678,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #9",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "dna": "716027fa29765c0736633e13a28b4a84181a80fc",
+    "edition": 9,
+    "date": 1640563336712,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #10",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "dna": "eb3194cba993e26ddd8b0c43b9838cb7011584ca",
+    "edition": 10,
+    "date": 1640563336747,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #11",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "dna": "a62184e8ac1c1518336c876b3a27f8e3996d80c1",
+    "edition": 11,
+    "date": 1640563336783,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #12",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "dna": "284821952ed0a79f29a5e27e936ece4eed465770",
+    "edition": 12,
+    "date": 1640563336818,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #13",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "dna": "ed9a7842a3a8fa3ba1a9db4eb592f0ff5c811698",
+    "edition": 13,
+    "date": 1640563336854,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #14",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "dna": "0ac234619aa743979a01d24bd057d12d8cb202ff",
+    "edition": 14,
+    "date": 1640563336889,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #15",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "dna": "8d90bdbe934024531904b9f90fdc8be533ba2c59",
+    "edition": 15,
+    "date": 1640563336928,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #16",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/16.png",
+    "dna": "a3fd45afa95953354436f01c7cccd0448d6c6fbb",
+    "edition": 16,
+    "date": 1640563336963,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #17",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/17.png",
+    "dna": "b7045319cb83f3f863d9fc77c71b88b68d05584e",
+    "edition": 17,
+    "date": 1640563336998,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #18",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/18.png",
+    "dna": "cdc0a22bb43de86ad604dfeb8ecd895c6527432c",
+    "edition": 18,
+    "date": 1640563337033,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #19",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/19.png",
+    "dna": "614212ad36b79ba722149fa4b50f40d1ef13a34e",
+    "edition": 19,
+    "date": 1640563337068,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #20",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/20.png",
+    "dna": "6804eec89056e690a363b77b6b5bc1dc139dce46",
+    "edition": 20,
+    "date": 1640563337103,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #21",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/21.png",
+    "dna": "1da827494b072b4ecbfbfd9f1ff5b8b352010050",
+    "edition": 21,
+    "date": 1640563337137,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #22",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/22.png",
+    "dna": "a3c2be9422fb449017998749b8d9a0ad1ad3a770",
+    "edition": 22,
+    "date": 1640563337171,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #23",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/23.png",
+    "dna": "bbe534f18d6a688f8732c201b0d55ac521774f4b",
+    "edition": 23,
+    "date": 1640563337206,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #24",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/24.png",
+    "dna": "1377acf34ee0efe72de3ea8f563ce98590629e5e",
+    "edition": 24,
+    "date": 1640563337240,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #25",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/25.png",
+    "dna": "2713d52c526f4ac4381ee97f0cebc629f847df2a",
+    "edition": 25,
+    "date": 1640563337275,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #26",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/26.png",
+    "dna": "13d2338d5015c665c4d3b44d9e7d5d9b6c7bed29",
+    "edition": 26,
+    "date": 1640563337310,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #27",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/27.png",
+    "dna": "9a0ad1b4133b7c5ad562a322c6c3cc70ef51730f",
+    "edition": 27,
+    "date": 1640563337345,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #28",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/28.png",
+    "dna": "7574d350d5063dce22bcea764076396b1c4311b9",
+    "edition": 28,
+    "date": 1640563337382,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #29",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/29.png",
+    "dna": "9d92eb6c099518beebb039408d4f064821b406a0",
+    "edition": 29,
+    "date": 1640563337417,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #30",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/30.png",
+    "dna": "2f9617ddbac8929acc2010cbbcb64ebc8cfbafad",
+    "edition": 30,
+    "date": 1640563337459,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #31",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/31.png",
+    "dna": "6857674de5d3f226bd4bb621ff22a7a883efe3fd",
+    "edition": 31,
+    "date": 1640563337504,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #32",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/32.png",
+    "dna": "0a938f61e35979fd3d6d255ce384849819f98f05",
+    "edition": 32,
+    "date": 1640563337540,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Elf Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #33",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/33.png",
+    "dna": "6f6f531965fb2da317674ca418464e5a80751262",
+    "edition": 33,
+    "date": 1640563337576,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Minty Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #34",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/34.png",
+    "dna": "b839939b53b94096a510474ae02d3e63b4062746",
+    "edition": 34,
+    "date": 1640563337610,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Mustache"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Snow Goggles"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #35",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/35.png",
+    "dna": "9691bf8e29ef06b28df26d0015d23ab1d876d298",
+    "edition": 35,
+    "date": 1640563337644,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Green Christmas Tree"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #36",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/36.png",
+    "dna": "cd03eb066cfd4d6cb893ac0ee5a3f04af0722ad8",
+    "edition": 36,
+    "date": 1640563337679,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Blue Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #37",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/37.png",
+    "dna": "1e7036bdf8014262626a4c9a82a6c91bd70cde6b",
+    "edition": 37,
+    "date": 1640563337713,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #38",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/38.png",
+    "dna": "76aedf28ab83ec0f34c321042cab2fe9ede5b559",
+    "edition": 38,
+    "date": 1640563337748,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue Deer"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Blue Round Glasses"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #39",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/39.png",
+    "dna": "73e8c3d9579b374acf1c8aa67a9634854fdde669",
+    "edition": 39,
+    "date": 1640563337782,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Red Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Nothing"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "FreakyPunk #40",
+    "description": "Remember to replace this description",
+    "image": "ipfs://NewUriToReplace/40.png",
+    "dna": "8e4d8400443822936ed775534d9ad078800a8076",
+    "edition": 40,
+    "date": 1640563337817,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Light Blue"
+      },
+      {
+        "trait_type": "Character",
+        "value": "Mustached Fella"
+      },
+      {
+        "trait_type": "Beard",
+        "value": "White Fu Manchu"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "Red Mask"
+      },
+      {
+        "trait_type": "Head",
+        "value": "Blue Santa Hat"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red Shades"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
